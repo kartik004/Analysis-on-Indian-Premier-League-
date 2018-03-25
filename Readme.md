@@ -85,7 +85,7 @@ The IPL is the most-attended cricket league in the world and ranks sixth among a
 ## Match Format
 **Twenty20 match format is a form of limited overs cricket in that it involves two teams, each with a single innings, the key feature being that each team bats for a maximum of 20 overs. In terms of visual format, the batting team members do not arrive from and depart to traditional dressing rooms, but come and go from a bench (typically a row of chairs) visible in the playing arena, analogous to association football's technical area or a baseball dugout.**
 
-**We Would be exploring the data with the help of Python and its library 
+**We Would be exploring the data with the help of Python and its library **
 ```
 import numpy as np
 import pandas as pd
