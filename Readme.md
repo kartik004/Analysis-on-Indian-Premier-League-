@@ -83,5 +83,6 @@ The IPL is the most-attended cricket league in the world and ranks sixth among a
      * The last two are called 'bowling' extras (the bowler being considered to be at fault for their being conceded) which are included in the runs conceded by the bowler.
      
 ## Match Format
-
 **Twenty20 match format is a form of limited overs cricket in that it involves two teams, each with a single innings, the key feature being that each team bats for a maximum of 20 overs. In terms of visual format, the batting team members do not arrive from and depart to traditional dressing rooms, but come and go from a bench (typically a row of chairs) visible in the playing arena, analogous to association football's technical area or a baseball dugout.**
+
+**We Would be exploring the data with the help of Python 
